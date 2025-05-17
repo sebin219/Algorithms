@@ -1,1 +1,3 @@
-# Algorithms-step-by-step
+# Algorithms
+## 코딩테스트 대비
+백준 단계별 문제풀이 답안 작성 중입니다.
